@@ -1,5 +1,8 @@
-# Deep Signal — legal
+# Deep Signal — legal (moved)
 
-Public pages for the Deep Signal mobile game: privacy policy (EN/RU).
+The privacy policy and the account deletion page moved to Firebase Hosting:
 
-https://rackanatoly.github.io/deep-signal-legal/
+- https://deep-signal-prod.web.app/privacy/
+- https://deep-signal-prod.web.app/delete-account/
+
+This repository only redirects the old GitHub Pages address and can be archived.
